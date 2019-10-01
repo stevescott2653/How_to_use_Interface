@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\obj\Debug\How_to_use_Interface.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\obj\Debug\How_to_use_Interface.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\bin\Debug\How_to_use_Interface.exe.config
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\bin\Debug\How_to_use_Interface.exe
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\bin\Debug\How_to_use_Interface.pdb
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\obj\Debug\How_to_use_Interface.exe
+D:\DEV\C#\Practice\How_to_use_Interface\How_to_use_Interface\obj\Debug\How_to_use_Interface.pdb
